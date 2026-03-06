@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(75, 83, 90);
+
+}
+h1{
+    color: black;
+    text-align: center;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img{
+  display: block;
+  margin:auto
+  
+}
