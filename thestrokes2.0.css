@@ -1,0 +1,33 @@
+body{
+    font-family: Arial;
+    background: #242222;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    color: #d4d805;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    max-width: 700px;
+    margin: auto;
+}
+
+img{
+    width: 250px;
+}
+
+a{
+    background: red;
+    color: white;
+    padding: 10px;
+}
+
+a:hover{
+    background: pink;
+}
